@@ -1,0 +1,2 @@
+let dias = ["Lunes","martes","miercoles","jueves","viernes","sabado","domingo"]  // Declaro la array dias con los dias de la semana
+console.log(dias) // Solicito que mediante consola se imprima el array.

@@ -1,0 +1,1 @@
+document.writeln("Hola Mundo!");//En esta linea de codigo se escribe el documento en el html.
